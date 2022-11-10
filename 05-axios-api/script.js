@@ -16,8 +16,6 @@ async function getData(){
     // })
 
     // === Alternative: directly change URL ===
-    // let dateQuery = "2022-11-08";
-
     // let response = await axios.get(apiURL + "?date=2022-11-09"
     // })
 
